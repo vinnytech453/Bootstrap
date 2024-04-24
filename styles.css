@@ -209,7 +209,7 @@ body{
     transform: translateX(200%);
   }
 .friendly-text {
-  font-size: 120px;
+  font-size: 12px;
   border: 5px solid;
   border-radius: 10px;
   animation: colorExchange 5s infinite;
