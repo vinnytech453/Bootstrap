@@ -208,3 +208,22 @@ body{
 .container.active .toggle-right{
     transform: translateX(200%);
   }
+.friendly-text {
+  font-size: 120px;
+  border: 5px solid;
+  border-radius: 10px;
+  animation: colorExchange 5s infinite;
+  text-align: center;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+@keyframes colorExchange {
+  0% { border-color: #ff0000; }
+  25% { border-color: #00ff00; }
+  50% { border-color: #0000ff; }
+  75% { border-color: #ffff00; }
+  100% { border-color: #ff00ff; }
+    }
+
