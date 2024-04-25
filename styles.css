@@ -231,7 +231,8 @@ body{
     align-items: center;
     justify-content: center;
     display: flex;
-    color: #000000
+    color: #0000ff;
+    text-align: center;
     
     
 }
