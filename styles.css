@@ -244,5 +244,6 @@ body{
 }
 li {
     display: block;
+    text-decoration: none;
 }
 
