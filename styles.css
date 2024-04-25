@@ -226,4 +226,13 @@ body{
   75% { border-color: #ffff00; }
   100% { border-color: #ff00ff; }
     }
+.paragraph{
+    background-color: #f0f8ff;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: #000000
+    
+    
+}
 
