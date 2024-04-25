@@ -239,10 +239,10 @@ body{
     
 }
 .material_icon{
-    display: inline;
+    display: block;
     text-align: left;
 }
-li .icon{
-    display: inline;
+li {
+    display: block;
 }
 
