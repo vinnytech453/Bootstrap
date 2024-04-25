@@ -242,4 +242,7 @@ body{
     display: inline;
     text-align: left;
 }
+li .icon{
+    display: inline;
+}
 
