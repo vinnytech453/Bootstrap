@@ -5,7 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
-    top-margin: 0;
+    
 }
 
 body{
@@ -105,7 +105,7 @@ body{
 }
 
 .sign-up{
-    left: 0;
+    left: 0; 
     width: 50%;
     opacity: 0;
     z-index: 1;
@@ -233,8 +233,7 @@ body{
     justify-content: center;
     color: #00000;
     text-align: left;
-    margin: 0;
-    padding: 0;
+    
     
     
 }
