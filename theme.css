@@ -1,0 +1,9 @@
+body {
+    background-color: #f0f0f0; /* Default background color */
+    color: #333; /* Default text color */
+}
+
+.theme-dark {
+    background-color: #333; /* Dark background color */
+    color: #fff; /* Light text color */
+}
