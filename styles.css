@@ -231,9 +231,8 @@ body{
     background-color: #f0f8ff;
     align-items: center;
     justify-content: center;
-    display: flex;
     color: #00000;
-    text-align: center;
+    text-align: left;
     margin: 0;
     padding: 0;
     
@@ -241,5 +240,6 @@ body{
 }
 .material_icon{
     display: inline;
+    text-align: left;
 }
 
